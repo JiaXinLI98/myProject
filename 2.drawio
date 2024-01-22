@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T11:47:22.115Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_8buLh33gtgZmbcHerQK" version="22.1.21" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-01-22T12:10:07.072Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nIuNvQ0AAj7ocE3OV9F1" version="22.1.21" type="github" pages="13">
   <diagram name="隐式结构图" id="hCqZ7cWwBxNybFOPnxZ1">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Av2Bo7uUlth9JqfW76eK" name="模糊结构图">
-    <mxGraphModel dx="1468" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,7 +315,7 @@
         <mxCell id="OH60hr85qKSy-21u6Aah-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="0eQN6M4dsmJ3VU-93qRf-29" target="0eQN6M4dsmJ3VU-93qRf-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0eQN6M4dsmJ3VU-93qRf-29" value="&lt;font color=&quot;#292929&quot; style=&quot;font-size: 12px;&quot;&gt;文本&amp;lt;E1&amp;gt;事件[关系][实体] [关系][实体]&amp;lt;/E1&amp;gt;文本&amp;lt;E2&amp;gt;事件[关系][实体] [关系][实体]&amp;lt;/E2&amp;gt;文本&lt;/font&gt;" style="fillColor=#b0e3e6;strokecolor=none;rounded=1;strokeColor=#0e8088;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;shadow=1;glass=0;" parent="1" vertex="1">
+        <mxCell id="0eQN6M4dsmJ3VU-93qRf-29" value="&lt;font color=&quot;#292929&quot; style=&quot;font-size: 12px;&quot;&gt;文本&amp;lt;E1&amp;gt;[关系][实体]&lt;/font&gt;事件&lt;font color=&quot;#292929&quot; style=&quot;font-size: 12px;&quot;&gt;[关系][实体]&amp;lt;/E1&amp;gt;文本&amp;lt;E2&amp;gt;[关系][实体]&lt;/font&gt;&amp;nbsp;事件&lt;font color=&quot;#292929&quot; style=&quot;font-size: 12px;&quot;&gt;[关系][实体]&amp;lt;/E2&amp;gt;文本&lt;/font&gt;" style="fillColor=#b0e3e6;strokecolor=none;rounded=1;strokeColor=#0e8088;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;shadow=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="80.07" y="400" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0eQN6M4dsmJ3VU-93qRf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="0eQN6M4dsmJ3VU-93qRf-3" target="0eQN6M4dsmJ3VU-93qRf-29" edge="1">
