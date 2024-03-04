@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T05:37:43.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="D8vXAZIXvZBcO7C9PkH1" version="23.1.6" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-03-04T08:21:15.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="H0zrLd3OS2JRTCMkfLKP" version="23.1.6" type="github" pages="16">
   <diagram id="KYXbsEAkJPiNL_E-wktS" name="方案">
-    <mxGraphModel dx="954" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,32 +181,36 @@
         <mxCell id="DTbes26JaJyZ3S1YRzE6-23" value="隐式因果句" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="430" width="109" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7lL1SQCFQDgYFcqG5wo4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7lL1SQCFQDgYFcqG5wo4-1" target="7lL1SQCFQDgYFcqG5wo4-20">
+        <mxCell id="10CzMRehTPI2jA7wUEb6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7lL1SQCFQDgYFcqG5wo4-1" target="10CzMRehTPI2jA7wUEb6-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="494" y="784" />
-              <mxPoint x="494" y="850" />
-              <mxPoint x="668" y="850" />
+              <mxPoint x="450" y="830" />
+              <mxPoint x="349" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="10CzMRehTPI2jA7wUEb6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7lL1SQCFQDgYFcqG5wo4-1" target="7lL1SQCFQDgYFcqG5wo4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7lL1SQCFQDgYFcqG5wo4-1" value="事件的语义表征不足" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="412" y="744" width="120" height="40" as="geometry" />
+          <mxGeometry x="409.5" y="747" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10CzMRehTPI2jA7wUEb6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7lL1SQCFQDgYFcqG5wo4-2" target="10CzMRehTPI2jA7wUEb6-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7lL1SQCFQDgYFcqG5wo4-2" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; line-height: 20pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;事件间关系的动态变化&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="191.75" y="747" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7lL1SQCFQDgYFcqG5wo4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="10CzMRehTPI2jA7wUEb6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7lL1SQCFQDgYFcqG5wo4-3" target="7lL1SQCFQDgYFcqG5wo4-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695.5" y="786" as="sourcePoint" />
-            <mxPoint x="695.5" y="898" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="696" y="836" />
+              <mxPoint x="665" y="830" />
+              <mxPoint x="635" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7lL1SQCFQDgYFcqG5wo4-3" value="推理事件间关系时缺乏逻辑链" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="746" width="130" height="40" as="geometry" />
+          <mxGeometry x="600" y="743.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7lL1SQCFQDgYFcqG5wo4-7" value="存在的问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="154" y="716" width="127" height="22" as="geometry" />
@@ -239,17 +243,31 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="10CzMRehTPI2jA7wUEb6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7lL1SQCFQDgYFcqG5wo4-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="218" y="975" />
+              <mxPoint x="300" y="975" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7lL1SQCFQDgYFcqG5wo4-12" value="事件掩蔽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="161.4" y="1029" width="110" height="40" as="geometry" />
+          <mxGeometry x="162.5" y="1029" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7lL1SQCFQDgYFcqG5wo4-20" value="隐式因果句" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="573.4" y="910" width="123" height="40" as="geometry" />
+          <mxGeometry x="570" y="880" width="123" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7lL1SQCFQDgYFcqG5wo4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7lL1SQCFQDgYFcqG5wo4-24" target="7lL1SQCFQDgYFcqG5wo4-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7lL1SQCFQDgYFcqG5wo4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="7lL1SQCFQDgYFcqG5wo4-24" target="7lL1SQCFQDgYFcqG5wo4-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1049" />
+              <mxPoint x="800" y="764" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7lL1SQCFQDgYFcqG5wo4-27" value="拟解决" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7lL1SQCFQDgYFcqG5wo4-26">
           <mxGeometry x="-0.2531" y="4" relative="1" as="geometry">
@@ -290,7 +308,10 @@
           <mxGeometry x="353" y="594" width="202.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="10CzMRehTPI2jA7wUEb6-1" value="模糊因果句" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="256.5" y="910" width="123" height="40" as="geometry" />
+          <mxGeometry x="256.5" y="880" width="123" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10CzMRehTPI2jA7wUEb6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.573;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7lL1SQCFQDgYFcqG5wo4-10" target="10CzMRehTPI2jA7wUEb6-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
